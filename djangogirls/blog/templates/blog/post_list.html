@@ -1,11 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Djangogirls task</title>
-</head>
-<body>
-	<p>It Works!</p>
-	<p>Lets continue</p>
-</body>
-</html>
+{% extends 'blog/base.html' %}
+{% block content %}
+{% for post in posts %}
+    <div class="post">
+        <div class="date">
+            {{ post.published_date }}
+        </div>
+        <h1><a href="">{{ post.title }}</a></h1>
+        <p>{{ post.text|linebreaks }}</p>
+    </div>
+{% endfor %}
+{% endblock %}
