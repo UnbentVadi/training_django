@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"la",
+				"larger"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"l",
+				"lighter"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"word-",
+				"word-spacing"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bacgk",
+				"background-attachment"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"backgo",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pis",
+				"position"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"autop",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vlad9n/django_video/article/models.py",
+		"/home/vlad9n/Trainee/training_django/djangogirls/blog/templates/blog/base.html",
+		"/home/vlad9n/Trainee/training_django/djangogirls/blog/templates/blog/post_edit.html",
+		"/home/vlad9n/Trainee/training_django/djangogirls/blog/urls.py",
+		"/home/vlad9n/Trainee/training_django/djangogirls/mysite/settings.py",
+		"/home/vlad9n/Trainee/training_django/djangogirls/blog/admin.py",
+		"/home/vlad9n/Trainee/training_django/djangogirls/blog/models.py",
+		"/home/vlad9n/Trainee/sitefiz/moz/gol2/Головна_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/chrome/gol/Головна_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/css/vladheader3.css",
+		"/home/vlad9n/Trainee/Adaptation/css/style.css",
+		"/home/vlad9n/Trainee/Adaptation/html/index.html",
+		"/home/vlad9n/Trainee/sitefiz/untitled.html",
+		"/home/vlad9n/Trainee/sitefiz/style.css",
+		"/home/vlad9n/Trainee/sitefiz/style2.css",
+		"/home/vlad9n/Trainee/sitefiz/index2.html",
+		"/home/vlad9n/Trainee/sitefiz/index.html",
+		"/home/vlad9n/Trainee/sitefiz/stylenav.css",
+		"/home/vlad9n/Trainee/sitefiz/nav.html",
+		"/home/vlad9n/Trainee/sitefiz/chrome/spiv/Співробітники кафедри_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/moz/spiv/Співробітники кафедри_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/moz/gol/Головна_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/css/vladheader2.css",
+		"/home/vlad9n/Trainee/sitefiz/css/vladheader.css",
+		"/home/vlad9n/Trainee/sitefiz/wtf/Головна.html",
+		"/home/vlad9n/Trainee/sitefiz/css/VAU.css",
+		"/home/vlad9n/Downloads/vladheader2.css",
+		"/home/vlad9n/Trainee/sitefiz/wtf/Головна_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/wtf/Головна_files/template(1).css",
+		"/home/vlad9n/Trainee/sitefiz/Головна.html",
+		"/home/vlad9n/Trainee/sitefiz/css/header2.css",
+		"/home/vlad9n/Trainee/sitefiz/css/header0.css",
+		"/home/vlad9n/Trainee/sitefiz/css/header.css",
+		"/home/vlad9n/Trainee/sitefiz/moz/Головна_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/moz/Головна.html",
+		"/home/vlad9n/Trainee/sitefiz/css/header0",
+		"/home/vlad9n/Trainee/sitefiz/moz/Головна_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/css/trucss.css",
+		"/home/vlad9n/Trainee/sitefiz/chrome/Головна_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/procafedru/Головна_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/procafedru/Про кафедру_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/procafedru/Про кафедру_files/template_002.css",
+		"/home/vlad9n/Trainee/sitefiz/chrome/Головна.html",
+		"/home/vlad9n/Trainee/sitefiz/asda.html",
+		"/home/vlad9n/Trainee/sitefiz/myheader.css",
+		"/home/vlad9n/Desktop/testsite/Головна.html",
+		"/home/vlad9n/Trainee/sitefiz/css/template.css",
+		"/home/vlad9n/Trainee/sitefiz/css/testnav.css",
+		"/home/vlad9n/Trainee/sitefiz/css/nnav.css",
+		"/home/vlad9n/Trainee/sitefiz/хедер.html",
+		"/home/vlad9n/Desktop/Електронна бібліотека.html",
+		"/home/vlad9n/Desktop/Студентське життя.html",
+		"/home/vlad9n/Desktop/Дистанційне навчання.html",
+		"/home/vlad9n/Desktop/Навчання.html",
+		"/home/vlad9n/Desktop/Студентам ФМФ.html",
+		"/home/vlad9n/Desktop/Практика та працевлаштування2.html",
+		"/home/vlad9n/Desktop/Практика та працевлаштування.html",
+		"/home/vlad9n/Desktop/Абітурієнтам та студентам.html",
+		"/home/vlad9n/Downloads/Назаров О.М..html",
+		"/home/vlad9n/Downloads/Горшков В.М..html",
+		"/home/vlad9n/Trainee/sitefiz/testnav.html",
+		"/home/vlad9n/Desktop/Назаров О.М..html",
+		"/home/vlad9n/Downloads/громадська.html",
+		"/home/vlad9n/Desktop/Горшков В.М..html",
+		"/home/vlad9n/Desktop/Габович О.М..html",
+		"/home/vlad9n/Downloads/Навчання .html",
+		"/home/vlad9n/Downloads/Навчання (2).html",
+		"/home/vlad9n/Downloads/Навчання.html",
+		"/home/vlad9n/Downloads/vukladachi.html",
+		"/home/vlad9n/Desktop/Балановська О.Ю..html",
+		"/home/vlad9n/Desktop/Навчальні посібники.html",
+		"/home/vlad9n/Downloads/vukladachi (1).html",
+		"/home/vlad9n/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/vlad9n/Trainee/sitefiz/Навчання.html",
+		"/home/vlad9n/Trainee/sitefiz/golovna/Головна_files/template.css",
+		"/home/vlad9n/Trainee/sitefiz/header.css",
+		"/home/vlad9n/Downloads/Горшков В.М2..html",
+		"/home/vlad9n/Downloads/Навчання/Навчання.html",
+		"/home/vlad9n/Downloads/2/Навчання2.html",
+		"/home/vlad9n/sorax/main_background.css",
+		"/home/vlad9n/Downloads/123/Навчання.html",
+		"/home/vlad9n/Trainee/sitefiz/Навчання2.html",
+		"/home/vlad9n/sorax/untitled.html",
+		"/home/vlad9n/sorax/index_background.html",
+		"/home/vlad9n/sorax/index_triangle.html",
+		"/home/vlad9n/sorax/main_triangle.css",
+		"/home/vlad9n/sorax/main5.css",
+		"/home/vlad9n/sorax/index5.html",
+		"/home/vlad9n/sorax/main5.html",
+		"/home/vlad9n/sorax/main4.css",
+		"/home/vlad9n/sorax/index4.html",
+		"/home/vlad9n/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/vlad9n/.config/sublime-text-3/Packages/User/CSS.sublime-settings",
+		"/home/vlad9n/.config/sublime-text-3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vlda",
+			"button",
+			"button\n",
+			"button",
+			"vlad",
+			"віта",
+			"vlad",
+			"|",
+			"vlad",
+			"header .brand:after {",
+			"font-family: SagoeWp;",
+			"sag",
+			"|",
+			"vlad",
+			"vlda",
+			"123",
+			"transition",
+			"vlad",
+			".nav-pills > li > a {\n	padding: 10px 14px;\n	margin-top: 5px;",
+			"margin",
+			"vlad",
+			"margin",
+			"vlad",
+			"kpi",
+			"vlad",
+			"item-1",
+			"|",
+			"overflow",
+			"nav-pills",
+			".nav-pills",
+			"#A2C052",
+			".nav",
+			"vlad",
+			".nav-pills > li > a ",
+			"vlad",
+			"row-f",
+			"z-index",
+			"row-f",
+			"site",
+			"border-top",
+			"vlad",
+			"nav-list",
+			"active",
+			"vlad",
+			".nav-pills > li",
+			"|",
+			":after",
+			"vlad",
+			"body",
+			"#004466",
+			"border-top",
+			".brand",
+			"vlad",
+			"height",
+			".slick-track",
+			".header-search ",
+			"body",
+			".nav-header",
+			".nav > .pull-right",
+			".navigation .nav-child:before",
+			"body .active a {",
+			".pull-left {",
+			".pull-left {\n    float: right;\n}",
+			".brand",
+			"body .brand {",
+			"brand",
+			".info_teacher",
+			"header",
+			"height",
+			"body",
+			"row-fluid",
+			".nav-pills > li > a",
+			"height",
+			"finder",
+			"header",
+			"	content: '';",
+			"	content: '';\n	display: block;",
+			"'';\n",
+			"bra",
+			"body.site",
+			"active",
+			"ul li:",
+			".nav-child li ",
+			".navigation .nav-child li ",
+			"header-",
+			"search",
+			"}\n",
+			"after",
+			"pull-right",
+			"slick",
+			"z-index",
+			"clearfix:",
+			"header-search",
+			"5em",
+			"#0081c2",
+			"border-radius",
+			"nav-pills",
+			"tab",
+			"tabs",
+			"nav-list",
+			"navbar",
+			"border-radius",
+			"slick-track",
+			"slick-list",
+			"h1",
+			"brand pull-left",
+			"кафедра",
+			"nav-child:",
+			"border-bottom-left-radius",
+			"dropdown",
+			"border-bottom-w",
+			"border-spacing",
+			"navig",
+			"margin",
+			"font-family",
+			"family",
+			".kpi",
+			"tabs",
+			"nav",
+			"navigation",
+			"border-ra",
+			"background",
+			"slick-track",
+			"<p> </p>",
+			"<h2> </h2>",
+			"h4",
+			"<h2> </h2>",
+			"<h2></h2>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"p",
+			"",
+			"p",
+			"",
+			" ",
+			"",
+			">",
+			"<img",
+			"p",
+			"",
+			"<br>",
+			"</li> <li>",
+			"/li",
+			"<li",
+			"ul",
+			"",
+			"li",
+			"ul",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dj_video",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
